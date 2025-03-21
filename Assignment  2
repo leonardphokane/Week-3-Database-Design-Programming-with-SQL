@@ -1,0 +1,8 @@
+# Assignment 2
+
+INSERT INTO MyTable
+  ( Column1, Column2, Column3 )
+VALUES
+  ('John', 123, 'Lloyds Office'),
+  ('Jane', 124, 'Lloyds Office'),
+  ( 'Sam , 125, 'Lloyds Office')
