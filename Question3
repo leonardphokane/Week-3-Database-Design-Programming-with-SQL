@@ -1,0 +1,8 @@
+# Question 3
+
+Write an SQL statement to update the age of the student with ID 2 to 20 in the student table.
+
+
+UPDATE student
+SET age = 20
+WHERE id = 2;
